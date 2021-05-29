@@ -1,10 +1,10 @@
-package io.lcalmky.thymelefttest;
+package io.lcalmky.thymeleaftest;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ThymeleftTestApplicationTests {
+class ThymeleafTestApplicationTests {
 
     @Test
     void contextLoads() {

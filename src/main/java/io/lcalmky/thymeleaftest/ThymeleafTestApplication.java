@@ -1,13 +1,13 @@
-package io.lcalmky.thymelefttest;
+package io.lcalmky.thymeleaftest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ThymeleftTestApplication {
+public class ThymeleafTestApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(ThymeleftTestApplication.class, args);
+        SpringApplication.run(ThymeleafTestApplication.class, args);
     }
 
 }
